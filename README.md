@@ -10,9 +10,6 @@
 🐍 Python | 🧮 SQL | 📊 Power BI  
 📧 sameerraj2106@gmail.com  
 </div>
-<h1 align="center">Hi 👋, I'm Sameer Raj</h1>
-<h3 align="center">Aspiring Data Analyst | Python & SQL Enthusiast | Power BI Explorer</h3>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sameerraj227&label=Profile%20views&color=0e75b6&style=flat" alt="sameerraj227" />
 </p>
