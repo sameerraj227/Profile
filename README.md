@@ -36,6 +36,9 @@
   <a href="https://github.com/sameerraj227" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/sameer_raj216" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
 </p>
 
 ---
