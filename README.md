@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/GdndskB.png" alt="Sameer Raj - Aspiring Data Analyst" width="100%" />
+  <img src="Profile/data-analysis-vector-colorful-modern-banner_104589-1708.avif" alt="Sameer Raj - Aspiring Data Analyst" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Sameer Raj</h1>
