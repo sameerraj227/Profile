@@ -17,22 +17,24 @@
 ---
 <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
-  <div>
-    <p>
-      🔍 Passionate about exploring data and uncovering insights<br>
-      📊 Building dashboards using Power BI, Excel, and Tableau<br>
-      🐍 Experienced in Python (pandas, matplotlib, seaborn) and SQL<br>
-      🎓 Certified in Google Data Analytics and Advanced SQL (HackerRank)<br>
-      🌱 Constantly learning through Kaggle, YouTube & community projects<br>
-      📬 Reach me at: sameerraj2106@gmail.com
-    </p>
-  </div>
+<table style="width:100%; border: none;">
+  <tr>
+    <td style="padding: 20px; background-color: #f5f5f5; border-radius: 10px; vertical-align: top;">
 
-  <div>
-    <img src="0_j8LjgYr1r1xPrJkr.gif" width="350" height="300" />
-  </div>
+  <p><strong>🔍 Passionate about exploring data and uncovering insights</strong></p>
+  <p>📊 Building dashboards using <strong>Power BI, Excel</strong>, and <strong>Tableau</strong></p>
+  <p>🐍 Experienced in <strong>Python (pandas, matplotlib, seaborn)</strong> and <strong>SQL</strong></p>
+  <p>🎓 Certified in <strong>Google Data Analytics</strong> and <strong>Advanced SQL (HackerRank)</strong></p>
+  <p>🌱 Constantly learning through <strong>Kaggle, YouTube</strong> & community projects</p>
+  <p>📬 Reach me at: <a href="mailto:sameerraj2106@gmail.com">sameerraj2106@gmail.com</a></p>
 
-</div>
+  </td>
+  <td style="padding: 20px; background-color: #f5f5f5; border-radius: 10px;">
+    <img src="0_j8LjgYr1r1xPrJkr.gif" width="300" height="250" style="border-radius: 10px;">
+  </td>
+  </tr>
+</table>
+
 
 
 ---
