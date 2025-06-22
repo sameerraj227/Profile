@@ -9,7 +9,6 @@
 💡 Aspiring Data Analyst  
 🐍 Python | 🧮 SQL | 📊 Power BI  
 📧 sameerraj2106@gmail.com  
-
 </div>
 <h1 align="center">Hi 👋, I'm Sameer Raj</h1>
 <h3 align="center">Aspiring Data Analyst | Python & SQL Enthusiast | Power BI Explorer</h3>
@@ -76,10 +75,10 @@
 </p>
 
 ---
-> 🔁 Regularly learning, building, and exploring the world of data
+> 🔁 Regularly learning, building, and exploring the world of data  
+>   
 > 🧠 *“Data is the new oil – but insights are the real gold.”*  
 > — Sameer Raj
-
 
 
 
