@@ -16,23 +16,17 @@
 
 ---
 
-<table>
-  <tr>
-    <td>
+<div align="right">
+  <img src="0_j8LjgYr1r1xPrJkr.gif" width="200" />
+</div>
 
 🔍 Passionate about exploring data and uncovering insights  
 📊 Building dashboards using Power BI, Excel, and Tableau  
 🐍 Experienced in Python (pandas, matplotlib, seaborn) and SQL  
 🎓 Certified in Google Data Analytics and Advanced SQL (HackerRank)  
 🌱 Constantly learning through Kaggle, YouTube & community projects  
-📬 Reach me at: sameerraj2106@gmail.com  
+📬 Reach me at: sameerraj2106@gmail.com
 
-  </td>
-  <td align="right">
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200">
-    </td>
-  </tr>
-</table>
 
 
 
