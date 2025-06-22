@@ -15,11 +15,9 @@
 </p>
 
 ---
-<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
-
-<table style="width:100%; border: none;">
+<table style="width:100%; border: 2px solid #4FC3F7; border-radius: 15px; background-color: #FAFAFA;">
   <tr>
-    <td style="padding: 20px; background-color: #f5f5f5; border-radius: 10px; vertical-align: top;">
+    <td style="padding: 25px; vertical-align: top;">
 
   <p><strong>🔍 Passionate about exploring data and uncovering insights</strong></p>
   <p>📊 Building dashboards using <strong>Power BI, Excel</strong>, and <strong>Tableau</strong></p>
@@ -28,13 +26,12 @@
   <p>🌱 Constantly learning through <strong>Kaggle, YouTube</strong> & community projects</p>
   <p>📬 Reach me at: <a href="mailto:sameerraj2106@gmail.com">sameerraj2106@gmail.com</a></p>
 
-  </td>
-  <td style="padding: 20px; background-color: #f5f5f5; border-radius: 10px;">
-    <img src="0_j8LjgYr1r1xPrJkr.gif" width="300" height="250" style="border-radius: 10px;">
-  </td>
+</td>
+<td style="padding: 25px;">
+  <img src="0_j8LjgYr1r1xPrJkr.gif" width="400" height="300" style="border-radius: 12px;">
+</td>
   </tr>
 </table>
-
 
 
 ---
