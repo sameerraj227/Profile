@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="BVqz3gNDNkdzeKY8C7RcBK.jpg" alt="Sameer Raj - Aspiring Data Analyst" width="100%" />
+  <img src="ChatGPT Image Jun 23, 2025, 02_10_25 AM.png" alt="Sameer Raj - Aspiring Data Analyst" width="100%" />
 </p>
 
 <div align="center">
