@@ -15,16 +15,23 @@
 </p>
 
 ---
-<p align="left" style="display: inline-block; width: 60%;">
-  🔍 Passionate about exploring data and uncovering insights <br>
-  📊 Building dashboards using <strong>Power BI, Excel</strong>, and <strong>Tableau</strong><br>
-  🐍 Experienced in <strong>Python (pandas, matplotlib, seaborn)</strong> and <strong>SQL</strong><br>
-  🎓 Certified in <strong>Google Data Analytics</strong> and <strong>Advanced SQL (HackerRank)</strong><br>
-  🌱 Constantly learning through <strong>Kaggle, YouTube</strong> & community projects<br>
-  📬 Reach me at: <a href="mailto:sameerraj2106@gmail.com">sameerraj2106@gmail.com</a>
-</p>
+<table style="width:100%; border: 2px solid #4FC3F7; border-radius: 15px; background-color: #FAFAFA;">
+  <tr>
+    <td style="padding: 25px 40px 25px 25px; vertical-align: top;">
 
-<img src="0_j8LjgYr1r1xPrJkr.gif" align="right" width="380" height="300" style="border-radius: 12px;" />
+  <p><strong>🔍 Passionate about exploring data and uncovering insights</strong></p>
+  <p>📊 Building dashboards using <strong>Power BI, Excel</strong>, and <strong>Tableau</strong></p>
+  <p>🐍 Experienced in <strong>Python (pandas, matplotlib, seaborn)</strong> and <strong>SQL</strong></p>
+  <p>🎓 Certified in <strong>Google Data Analytics</strong> and <strong>Advanced SQL (HackerRank)</strong></p>
+  <p>🌱 Constantly learning through <strong>Kaggle, YouTube</strong> & community projects</p>
+  <p>📬 Reach me at: <a href="mailto:sameerraj2106@gmail.com">sameerraj2106@gmail.com</a></p>
+
+</td>
+<td style="padding: 25px 25px 25px 40px;">
+  <img src="0_j8LjgYr1r1xPrJkr.gif" width="400" height="300" style="border-radius: 12px;">
+</td>
+  </tr>
+</table>
 
 ---
 
