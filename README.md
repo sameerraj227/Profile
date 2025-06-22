@@ -17,7 +17,7 @@
 ---
 
 <div align="right">
-  <img src="0_j8LjgYr1r1xPrJkr.gif" width="400"  height="200"/>
+  <img src="0_j8LjgYr1r1xPrJkr.gif" width="400"  height="500"/>
 </div>
 
 🔍 Passionate about exploring data and uncovering insights  
