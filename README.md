@@ -1,7 +1,16 @@
 <p align="center">
-  <img src="data-analysis-vector-colorful-modern-banner_104589-1708.avif" alt="Sameer Raj - Aspiring Data Analyst" width="100%" />
+  <img src="banner.png" alt="Sameer Raj - Aspiring Data Analyst" width="100%" />
 </p>
 
+<div align="center">
+
+<h1>Hi 👋, I'm Sameer Raj</h1>
+
+💡 Aspiring Data Analyst  
+🐍 Python | 🧮 SQL | 📊 Power BI  
+📧 sameerraj2106@gmail.com  
+
+</div>
 <h1 align="center">Hi 👋, I'm Sameer Raj</h1>
 <h3 align="center">Aspiring Data Analyst | Python & SQL Enthusiast | Power BI Explorer</h3>
 
@@ -67,7 +76,7 @@
 </p>
 
 ---
-> 🔁 Regularly learning, building, and exploring the world of data.
+> 🔁 Regularly learning, building, and exploring the world of data
 > 🧠 *“Data is the new oil – but insights are the real gold.”*  
 > — Sameer Raj
 
