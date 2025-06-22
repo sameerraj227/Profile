@@ -28,7 +28,7 @@
 
 </td>
 <td style="padding: 25px 25px 25px 40px;">
-  <img src="0_j8LjgYr1r1xPrJkr.gif" width="400" height="300" style="border-radius: 12px;">
+  <img src="0_j8LjgYr1r1xPrJkr.gif" width="500" height="300" style="border-radius: 12px;">
 </td>
   </tr>
 </table>
