@@ -16,12 +16,24 @@
 
 ---
 
-- 🔍 Passionate about exploring data and uncovering insights  
-- 📊 Building dashboards using **Power BI**, **Excel**, and **Tableau**  
-- 🐍 Experienced in **Python (pandas, matplotlib, seaborn)** and **SQL**  
-- 🎓 Certified in **Google Data Analytics** and **Advanced SQL (HackerRank)**  
-- 🌱 Constantly learning through Kaggle, YouTube & community projects  
-- 📬 Reach me at: **sameerraj2106@gmail.com**
+<table>
+  <tr>
+    <td>
+
+🔍 Passionate about exploring data and uncovering insights  
+📊 Building dashboards using Power BI, Excel, and Tableau  
+🐍 Experienced in Python (pandas, matplotlib, seaborn) and SQL  
+🎓 Certified in Google Data Analytics and Advanced SQL (HackerRank)  
+🌱 Constantly learning through Kaggle, YouTube & community projects  
+📬 Reach me at: sameerraj2106@gmail.com  
+
+    </td>
+    <td>
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220">
+    </td>
+  </tr>
+</table>
+
 
 ---
 
