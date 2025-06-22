@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" alt="Sameer Raj - Aspiring Data Analyst" width="100%" />
+  <img src="data-analysis-vector-colorful-modern-banner_104589-1708.avif" alt="Sameer Raj - Aspiring Data Analyst" width="100%" />
 </p>
 
 <div align="center">
