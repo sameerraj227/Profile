@@ -27,12 +27,13 @@
 🌱 Constantly learning through Kaggle, YouTube & community projects  
 📬 Reach me at: sameerraj2106@gmail.com  
 
-    </td>
-    <td>
-      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="220">
+  </td>
+  <td align="right">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="200">
     </td>
   </tr>
 </table>
+
 
 
 ---
