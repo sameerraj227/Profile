@@ -15,19 +15,24 @@
 </p>
 
 ---
+<div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap;">
 
-<div align="right">
-  <img src="0_j8LjgYr1r1xPrJkr.gif" width="400"  height="500"/>
+  <div>
+    <p>
+      🔍 Passionate about exploring data and uncovering insights<br>
+      📊 Building dashboards using Power BI, Excel, and Tableau<br>
+      🐍 Experienced in Python (pandas, matplotlib, seaborn) and SQL<br>
+      🎓 Certified in Google Data Analytics and Advanced SQL (HackerRank)<br>
+      🌱 Constantly learning through Kaggle, YouTube & community projects<br>
+      📬 Reach me at: sameerraj2106@gmail.com
+    </p>
+  </div>
+
+  <div>
+    <img src="0_j8LjgYr1r1xPrJkr.gif" width="350" height="300" />
+  </div>
+
 </div>
-
-🔍 Passionate about exploring data and uncovering insights  
-📊 Building dashboards using Power BI, Excel, and Tableau  
-🐍 Experienced in Python (pandas, matplotlib, seaborn) and SQL  
-🎓 Certified in Google Data Analytics and Advanced SQL (HackerRank)  
-🌱 Constantly learning through Kaggle, YouTube & community projects  
-📬 Reach me at: sameerraj2106@gmail.com
-
-
 
 
 ---
