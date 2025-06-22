@@ -1,51 +1,56 @@
+<p align="center">
+  <img src="https://i.imgur.com/GdndskB.png" alt="Sameer Raj - Aspiring Data Analyst" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Sameer Raj</h1>
 <h3 align="center">Aspiring Data Analyst | Python & SQL Enthusiast | Power BI Explorer</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sameerraj227&label=Profile%20views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sameerraj227&label=Profile%20views&color=0e75b6&style=flat" alt="sameerraj227" />
 </p>
 
 ---
 
-- 🔍 Currently diving deep into **Data Analytics** using Python, SQL, and Power BI  
-- 📊 Passionate about **data visualization**, **dashboarding**, and **statistical analysis**  
-- 🏆 Certified in **Google Data Analytics** and **Advanced SQL (HackerRank)**  
-- 🎯 Practicing EDA and real-world problems regularly on **Kaggle**  
-- 📫 Reach me at: **sameerraj2106@gmail.com**
+- 🔍 Passionate about exploring data and uncovering insights  
+- 📊 Building dashboards using **Power BI**, **Excel**, and **Tableau**  
+- 🐍 Experienced in **Python (pandas, matplotlib, seaborn)** and **SQL**  
+- 🎓 Certified in **Google Data Analytics** and **Advanced SQL (HackerRank)**  
+- 🌱 Constantly learning through Kaggle, YouTube & community projects  
+- 📬 Reach me at: **sameerraj2106@gmail.com**
 
 ---
 
-<h3 align="center">🔗 Connect with me</h3>
+<h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/sameerraj227/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:sameerraj2106@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/sameerraj227" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h3 align="center">🧰 Tools & Technologies</h3>
+<h3 align="center">⚒️ Tools & Technologies</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 ---
 
 <h3 align="center">📜 Certifications</h3>
 
-- ✅ [Google Data Analytics – Coursera](https://coursera.org/share/c6ed084cb479c65335c06698237491ec)
+- ✅ [Google Data Analytics – Coursera](https://coursera.org/share/c6ed084cb479c65335c06698237491ec)  
 - ✅ [SQL (Advanced) – HackerRank](https://www.hackerrank.com/certificates/edc8bff78539)
 
 ---
@@ -62,6 +67,11 @@
 </p>
 
 ---
-
 > 🔁 Regularly learning, building, and exploring the world of data.
+> 🧠 *“Data is the new oil – but insights are the real gold.”*  
+> — Sameer Raj
+
+
+
+
 
