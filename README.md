@@ -75,9 +75,6 @@
 
 <h3 align="center">📈 GitHub Stats</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sameerraj227&show_icons=true&theme=react&hide_border=true" alt="Sameer's GitHub Stats" />
-</p>
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sameerraj227&theme=react" alt="GitHub Streak" />
 </p>
 <p align="center">
